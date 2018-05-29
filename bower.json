@@ -1,0 +1,23 @@
+{
+  "name": "uzed-directives",
+  "authors": [
+    "sandeep dillerao <sandydillerao@gmail.com>"
+  ],
+  "description": "This is directive uzed by our app UZED",
+  "main": "src/uzed-directives.js",
+  "keywords": [
+    "angular",
+    "angularjs",
+    "ionic",
+    "uzed"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/rapidue/uzed-directives",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
